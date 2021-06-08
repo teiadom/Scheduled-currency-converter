@@ -1,0 +1,4 @@
+configparser=5.0.0
+requests~=2.23.0
+python=3.*
+schedule
